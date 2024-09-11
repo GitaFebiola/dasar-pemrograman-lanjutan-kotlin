@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.For_LoopKalkulatorEksponensialKt">
+  <component name="RunManager" selected="Kotlin.WhileDanDo_WhileKt">
     <configuration name="For_LoopKalkulatorEksponensialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_LoopKalkulatorEksponensialKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhenKt" />
+    <configuration name="WhileDanDo_WhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileDanDo_WhileKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhileDanDo_WhileKt" />
         <item itemvalue="Kotlin.For_LoopKalkulatorEksponensialKt" />
         <item itemvalue="Kotlin.For_LoopPerkalianKt" />
         <item itemvalue="Kotlin.For_LoopKt" />
         <item itemvalue="Kotlin.KalkulatorPercabanganWhenKt" />
-        <item itemvalue="Kotlin.WhenKt" />
       </list>
     </recent_temporary>
   </component>
