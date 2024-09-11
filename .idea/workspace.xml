@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.RangesKt">
+  <component name="RunManager" selected="Kotlin.PercabanganKt">
     <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutableListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MutableListOfKt" />
+    <configuration name="PercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercabanganKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PercabanganKt" />
         <item itemvalue="Kotlin.RangesKt" />
         <item itemvalue="Kotlin.MapKt" />
         <item itemvalue="Kotlin.SetKt" />
         <item itemvalue="Kotlin.ArrayListOfKt" />
-        <item itemvalue="Kotlin.MutableListOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726018537261</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Ranges.kt">
+      <option name="closed" value="true" />
+      <created>1726018731463</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726018731463</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +211,7 @@
     <MESSAGE value="ArrayListOf.kt" />
     <MESSAGE value="Set.kt" />
     <MESSAGE value="Map.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map.kt" />
+    <MESSAGE value="Ranges.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ranges.kt" />
   </component>
 </project>
