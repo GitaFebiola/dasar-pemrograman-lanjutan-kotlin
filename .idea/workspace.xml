@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorPercabanganWhen.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +36,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.WhenKt">
+  <component name="RunManager" selected="Kotlin.KalkulatorPercabanganWhenKt">
     <configuration name="KalkulatorPercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KalkulatorPercabanganKt" />
+      <module name="DasarPemrogramanLanjutanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KalkulatorPercabanganWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KalkulatorPercabanganWhenKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,13 +65,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RangesKt" />
-      <module name="DasarPemrogramanLanjutanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WhenKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KalkulatorPercabanganWhenKt" />
         <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.KalkulatorPercabanganKt" />
         <item itemvalue="Kotlin.Percabangan2Kt" />
         <item itemvalue="Kotlin.PercabanganKt" />
-        <item itemvalue="Kotlin.RangesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726020785430</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="When.kt">
+      <option name="closed" value="true" />
+      <created>1726021048508</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1726021048508</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -239,6 +247,7 @@
     <MESSAGE value="Percabangan.kt" />
     <MESSAGE value="Percabangan2.kt" />
     <MESSAGE value="KalkulatorPercabangan.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="KalkulatorPercabangan.kt" />
+    <MESSAGE value="When.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="When.kt" />
   </component>
 </project>
