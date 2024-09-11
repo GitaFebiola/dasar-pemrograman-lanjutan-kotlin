@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan.kt" afterDir="false" />
+    <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="Percabangan.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +37,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.PercabanganKt">
-    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
+  <component name="RunManager" selected="Kotlin.Percabangan2Kt">
+    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapKt" />
+    <configuration name="Percabangan2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Percabangan2Kt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Percabangan2Kt" />
         <item itemvalue="Kotlin.PercabanganKt" />
         <item itemvalue="Kotlin.RangesKt" />
         <item itemvalue="Kotlin.MapKt" />
         <item itemvalue="Kotlin.SetKt" />
-        <item itemvalue="Kotlin.ArrayListOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726018731463</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Percabangan.kt">
+      <option name="closed" value="true" />
+      <created>1726019293177</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726019293177</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -212,6 +221,7 @@
     <MESSAGE value="Set.kt" />
     <MESSAGE value="Map.kt" />
     <MESSAGE value="Ranges.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ranges.kt" />
+    <MESSAGE value="Percabangan.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Percabangan.kt" />
   </component>
 </project>
