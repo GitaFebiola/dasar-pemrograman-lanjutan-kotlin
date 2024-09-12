@@ -36,14 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Operator__Kt">
-    <configuration name="BreakandContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakandContinueKt" />
-      <module name="DasarPemrogramanLanjutanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PemeriksaanKondisiNullKt">
     <configuration name="BreakandContinueLabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakandContinueLabelKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -65,6 +58,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PemeriksaanKondisiNullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PemeriksaanKondisiNullKt" />
+      <module name="DasarPemrogramanLanjutanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReturnKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PemeriksaanKondisiNullKt" />
         <item itemvalue="Kotlin.Operator__Kt" />
         <item itemvalue="Kotlin.NullKt" />
         <item itemvalue="Kotlin.BreakandContinueLabelKt" />
         <item itemvalue="Kotlin.ReturnKt" />
-        <item itemvalue="Kotlin.BreakandContinueKt" />
       </list>
     </recent_temporary>
   </component>
