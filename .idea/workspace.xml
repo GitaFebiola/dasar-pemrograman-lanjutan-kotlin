@@ -36,9 +36,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SafeCallsKt">
-    <configuration name="BreakandContinueLabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakandContinueLabelKt" />
+  <component name="RunManager" selected="Kotlin.ElvisOperatorKt">
+    <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ElvisOperatorKt" />
         <item itemvalue="Kotlin.SafeCallsKt" />
         <item itemvalue="Kotlin.PemeriksaanKondisiNullKt" />
         <item itemvalue="Kotlin.Operator__Kt" />
         <item itemvalue="Kotlin.NullKt" />
-        <item itemvalue="Kotlin.BreakandContinueLabelKt" />
       </list>
     </recent_temporary>
   </component>
