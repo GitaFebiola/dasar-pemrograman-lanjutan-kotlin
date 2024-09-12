@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiDenganNilaiKembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PairNilaiKembali.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.FungsiDenganNilaiKembaliKt">
+  <component name="RunManager" selected="Kotlin.PairNilaiKembaliKt">
     <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -46,13 +47,6 @@
     </configuration>
     <configuration name="FungsiDenganNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FungsiDenganNilaiKembaliKt" />
-      <module name="DasarPemrogramanLanjutanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FungsiMathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FungsiMathKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PairNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PairNilaiKembaliKt" />
+      <module name="DasarPemrogramanLanjutanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PairNilaiKembaliKt" />
         <item itemvalue="Kotlin.FungsiDenganNilaiKembaliKt" />
         <item itemvalue="Kotlin.FungsiTanpaNilaiKembaliKt" />
         <item itemvalue="Kotlin.AkarKuadratKt" />
         <item itemvalue="Kotlin.LuasdanKelilingLingkaranKt" />
-        <item itemvalue="Kotlin.FungsiMathKt" />
       </list>
     </recent_temporary>
   </component>
@@ -387,11 +388,18 @@
       <option name="project" value="LOCAL" />
       <updated>1726131250629</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="FungsiDenganNilaiKembali.kt">
+      <option name="closed" value="true" />
+      <created>1726131873214</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1726131873214</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Map.kt" />
     <MESSAGE value="Ranges.kt" />
     <MESSAGE value="Percabangan.kt" />
     <MESSAGE value="Percabangan2.kt" />
@@ -416,6 +424,7 @@
     <MESSAGE value="LuasdanKelilingLingkaran.kt" />
     <MESSAGE value="AkarKuadrat.kt" />
     <MESSAGE value="FungsiTanpaNilaiKembali.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="FungsiTanpaNilaiKembali.kt" />
+    <MESSAGE value="FungsiDenganNilaiKembali.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="FungsiDenganNilaiKembali.kt" />
   </component>
 </project>
