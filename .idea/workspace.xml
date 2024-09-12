@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LuasdanKelilingLingkaran.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AkarKuadrat.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.LuasdanKelilingLingkaranKt">
+  <component name="RunManager" selected="Kotlin.AkarKuadratKt">
+    <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
+      <module name="DasarPemrogramanLanjutanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -65,20 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SafeCallsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SafeCallsKt" />
-      <module name="DasarPemrogramanLanjutanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AkarKuadratKt" />
         <item itemvalue="Kotlin.LuasdanKelilingLingkaranKt" />
         <item itemvalue="Kotlin.FungsiMathKt" />
         <item itemvalue="Kotlin.ExceptionHandlingKt" />
         <item itemvalue="Kotlin.ElvisOperatorKt" />
-        <item itemvalue="Kotlin.SafeCallsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -363,11 +363,18 @@
       <option name="project" value="LOCAL" />
       <updated>1726129691988</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="LuasdanKelilingLingkaran.kt">
+      <option name="closed" value="true" />
+      <created>1726130191028</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1726130191028</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MutableListOf.kt" />
     <MESSAGE value="ArrayListOf.kt" />
     <MESSAGE value="Set.kt" />
     <MESSAGE value="Map.kt" />
@@ -392,6 +399,7 @@
     <MESSAGE value="ElvisOperator.kt" />
     <MESSAGE value="ExceptionHandling.kt" />
     <MESSAGE value="FungsiMath.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="FungsiMath.kt" />
+    <MESSAGE value="LuasdanKelilingLingkaran.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="LuasdanKelilingLingkaran.kt" />
   </component>
 </project>
