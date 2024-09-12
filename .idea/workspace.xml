@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SafeCalls.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExceptionHandling.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ElvisOperatorKt">
+  <component name="RunManager" selected="Kotlin.ExceptionHandlingKt">
     <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -44,8 +44,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NullKt" />
+    <configuration name="ExceptionHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExceptionHandlingKt" />
         <item itemvalue="Kotlin.ElvisOperatorKt" />
         <item itemvalue="Kotlin.SafeCallsKt" />
         <item itemvalue="Kotlin.PemeriksaanKondisiNullKt" />
         <item itemvalue="Kotlin.Operator__Kt" />
-        <item itemvalue="Kotlin.NullKt" />
       </list>
     </recent_temporary>
   </component>
@@ -331,12 +331,26 @@
       <option name="project" value="LOCAL" />
       <updated>1726127909792</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="SafeCalls.kt">
+      <option name="closed" value="true" />
+      <created>1726128079661</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726128079661</updated>
+    </task>
+    <task id="LOCAL-00032" summary="ElvisOperator.kt">
+      <option name="closed" value="true" />
+      <created>1726128335367</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726128335367</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Array2Dimensi.kt" />
-    <MESSAGE value="ArrayMultidimensi.kt" />
     <MESSAGE value="Collections.kt" />
     <MESSAGE value="ListOf.kt" />
     <MESSAGE value="MutableListOf.kt" />
@@ -360,6 +374,8 @@
     <MESSAGE value="null.kt" />
     <MESSAGE value="Operator!!.kt" />
     <MESSAGE value="PemeriksaanKondisiNull.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="PemeriksaanKondisiNull.kt" />
+    <MESSAGE value="SafeCalls.kt" />
+    <MESSAGE value="ElvisOperator.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="ElvisOperator.kt" />
   </component>
 </project>
