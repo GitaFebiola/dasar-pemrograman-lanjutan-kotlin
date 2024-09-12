@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExceptionHandling.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiMath.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ExceptionHandlingKt">
+  <component name="RunManager" selected="Kotlin.FungsiMathKt">
     <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -51,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator__Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator__Kt" />
+    <configuration name="FungsiMathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsiMathKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FungsiMathKt" />
         <item itemvalue="Kotlin.ExceptionHandlingKt" />
         <item itemvalue="Kotlin.ElvisOperatorKt" />
         <item itemvalue="Kotlin.SafeCallsKt" />
         <item itemvalue="Kotlin.PemeriksaanKondisiNullKt" />
-        <item itemvalue="Kotlin.Operator__Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -347,11 +348,18 @@
       <option name="project" value="LOCAL" />
       <updated>1726128335367</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="ExceptionHandling.kt">
+      <option name="closed" value="true" />
+      <created>1726128529203</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1726128529203</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Collections.kt" />
     <MESSAGE value="ListOf.kt" />
     <MESSAGE value="MutableListOf.kt" />
     <MESSAGE value="ArrayListOf.kt" />
@@ -376,6 +384,7 @@
     <MESSAGE value="PemeriksaanKondisiNull.kt" />
     <MESSAGE value="SafeCalls.kt" />
     <MESSAGE value="ElvisOperator.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="ElvisOperator.kt" />
+    <MESSAGE value="ExceptionHandling.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="ExceptionHandling.kt" />
   </component>
 </project>
