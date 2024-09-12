@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SingleExpressionFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArgumenDefaultFungsi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +36,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SingleExpressionFunctionsKt">
-    <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
+  <component name="RunManager" selected="Kotlin.ArgumenDefaultFungsiKt">
+    <configuration name="ArgumenDefaultFungsiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArgumenDefaultFungsiKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArgumenDefaultFungsiKt" />
         <item itemvalue="Kotlin.SingleExpressionFunctionsKt" />
         <item itemvalue="Kotlin.PairNilaiKembaliKt" />
         <item itemvalue="Kotlin.FungsiDenganNilaiKembaliKt" />
         <item itemvalue="Kotlin.FungsiTanpaNilaiKembaliKt" />
-        <item itemvalue="Kotlin.AkarKuadratKt" />
       </list>
     </recent_temporary>
   </component>
@@ -403,11 +403,18 @@
       <option name="project" value="LOCAL" />
       <updated>1726133856547</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="SingleExpressionFunctions.kt">
+      <option name="closed" value="true" />
+      <created>1726134245968</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1726134245968</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Percabangan.kt" />
     <MESSAGE value="Percabangan2.kt" />
     <MESSAGE value="KalkulatorPercabangan.kt" />
     <MESSAGE value="When.kt" />
@@ -432,6 +439,7 @@
     <MESSAGE value="FungsiTanpaNilaiKembali.kt" />
     <MESSAGE value="FungsiDenganNilaiKembali.kt" />
     <MESSAGE value="PairNilaiKembali.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="PairNilaiKembali.kt" />
+    <MESSAGE value="SingleExpressionFunctions.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="SingleExpressionFunctions.kt" />
   </component>
 </project>
