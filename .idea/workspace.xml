@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Operator!!.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Operator!!.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SafeCalls.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.PemeriksaanKondisiNullKt">
+  <component name="RunManager" selected="Kotlin.SafeCallsKt">
     <configuration name="BreakandContinueLabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakandContinueLabelKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReturnKt" />
+    <configuration name="SafeCallsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SafeCallsKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SafeCallsKt" />
         <item itemvalue="Kotlin.PemeriksaanKondisiNullKt" />
         <item itemvalue="Kotlin.Operator__Kt" />
         <item itemvalue="Kotlin.NullKt" />
         <item itemvalue="Kotlin.BreakandContinueLabelKt" />
-        <item itemvalue="Kotlin.ReturnKt" />
       </list>
     </recent_temporary>
   </component>
@@ -315,11 +315,26 @@
       <option name="project" value="LOCAL" />
       <updated>1726127589483</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Operator!!.kt">
+      <option name="closed" value="true" />
+      <created>1726127688666</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1726127688666</updated>
+    </task>
+    <task id="LOCAL-00030" summary="PemeriksaanKondisiNull.kt">
+      <option name="closed" value="true" />
+      <created>1726127909792</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1726127909792</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ArrayMethod.kt" />
     <MESSAGE value="Array2Dimensi.kt" />
     <MESSAGE value="ArrayMultidimensi.kt" />
     <MESSAGE value="Collections.kt" />
@@ -344,6 +359,7 @@
     <MESSAGE value="BreakandContinueLabel.kt" />
     <MESSAGE value="null.kt" />
     <MESSAGE value="Operator!!.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operator!!.kt" />
+    <MESSAGE value="PemeriksaanKondisiNull.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="PemeriksaanKondisiNull.kt" />
   </component>
 </project>
