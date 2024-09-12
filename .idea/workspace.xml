@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="" />
+    <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator!!.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.NullKt">
+  <component name="RunManager" selected="Kotlin.Operator__Kt">
     <configuration name="BreakandContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakandContinueKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -56,6 +58,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Operator__Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator__Kt" />
+      <module name="DasarPemrogramanLanjutanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReturnKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -63,20 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While_LoopKalkulatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="While_LoopKalkulatorKt" />
-      <module name="DasarPemrogramanLanjutanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Operator__Kt" />
         <item itemvalue="Kotlin.NullKt" />
         <item itemvalue="Kotlin.BreakandContinueLabelKt" />
         <item itemvalue="Kotlin.ReturnKt" />
         <item itemvalue="Kotlin.BreakandContinueKt" />
-        <item itemvalue="Kotlin.While_LoopKalkulatorKt" />
       </list>
     </recent_temporary>
   </component>
@@ -297,11 +299,18 @@
       <option name="project" value="LOCAL" />
       <updated>1726126914643</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="null.kt">
+      <option name="closed" value="true" />
+      <created>1726127168823</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726127168823</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TemplateArray.kt" />
     <MESSAGE value="ArrayPrimitive.kt" />
     <MESSAGE value="ArrayMethod.kt" />
     <MESSAGE value="Array2Dimensi.kt" />
@@ -326,6 +335,7 @@
     <MESSAGE value="BreakandContinue.kt" />
     <MESSAGE value="return.kt" />
     <MESSAGE value="BreakandContinueLabel.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="BreakandContinueLabel.kt" />
+    <MESSAGE value="null.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="null.kt" />
   </component>
 </project>
