@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator!!.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Operator!!.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Operator!!.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,11 +307,18 @@
       <option name="project" value="LOCAL" />
       <updated>1726127168823</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Operator!!.kt">
+      <option name="closed" value="true" />
+      <created>1726127589483</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1726127589483</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ArrayPrimitive.kt" />
     <MESSAGE value="ArrayMethod.kt" />
     <MESSAGE value="Array2Dimensi.kt" />
     <MESSAGE value="ArrayMultidimensi.kt" />
@@ -336,6 +343,7 @@
     <MESSAGE value="return.kt" />
     <MESSAGE value="BreakandContinueLabel.kt" />
     <MESSAGE value="null.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="null.kt" />
+    <MESSAGE value="Operator!!.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operator!!.kt" />
   </component>
 </project>
