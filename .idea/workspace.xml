@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakandContinue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/return.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.BreakandContinueKt">
+  <component name="RunManager" selected="Kotlin.ReturnKt">
     <configuration name="BreakandContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakandContinueKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
@@ -52,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For_LoopPerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_LoopPerkalianKt" />
+    <configuration name="ReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReturnKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ReturnKt" />
         <item itemvalue="Kotlin.BreakandContinueKt" />
         <item itemvalue="Kotlin.While_LoopKalkulatorKt" />
         <item itemvalue="Kotlin.WhileDanDo_WhileKt" />
         <item itemvalue="Kotlin.For_LoopKalkulatorEksponensialKt" />
-        <item itemvalue="Kotlin.For_LoopPerkalianKt" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726031242847</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="BreakandContinue.kt">
+      <option name="closed" value="true" />
+      <created>1726031471373</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1726031471373</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -303,6 +311,7 @@
     <MESSAGE value="For-LoopKalkulatorEksponensial.kt" />
     <MESSAGE value="WhileDanDo-While.kt.kt" />
     <MESSAGE value="While-LoopKalkulator.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="While-LoopKalkulator.kt" />
+    <MESSAGE value="BreakandContinue.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="BreakandContinue.kt" />
   </component>
 </project>
