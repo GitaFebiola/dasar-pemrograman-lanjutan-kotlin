@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c1e7d8f-64a4-4140-9278-87ba9c718cde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EkspresiLambdas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayStandardKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +37,30 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.EkspresiLambdasKt">
+  <component name="RunManager" selected="Kotlin.ArrayStandardKotlinKt">
     <configuration name="ArgumenDefaultFungsiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArgumenDefaultFungsiKt" />
+      <module name="DasarPemrogramanLanjutanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+      <module name="DasarPemrogramanLanjutanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
+      <module name="DasarPemrogramanLanjutanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayStandardKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayStandardKotlinKt" />
       <module name="DasarPemrogramanLanjutanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,34 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FungsiDenganNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FungsiDenganNilaiKembaliKt" />
-      <module name="DasarPemrogramanLanjutanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PairNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PairNilaiKembaliKt" />
-      <module name="DasarPemrogramanLanjutanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleExpressionFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingleExpressionFunctionsKt" />
-      <module name="DasarPemrogramanLanjutanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayStandardKotlinKt" />
+        <item itemvalue="Kotlin.ArrayKt" />
+        <item itemvalue="Kotlin.ArrayListOfKt" />
         <item itemvalue="Kotlin.EkspresiLambdasKt" />
         <item itemvalue="Kotlin.ArgumenDefaultFungsiKt" />
-        <item itemvalue="Kotlin.SingleExpressionFunctionsKt" />
-        <item itemvalue="Kotlin.PairNilaiKembaliKt" />
-        <item itemvalue="Kotlin.FungsiDenganNilaiKembaliKt" />
       </list>
     </recent_temporary>
   </component>
@@ -419,11 +420,18 @@
       <option name="project" value="LOCAL" />
       <updated>1726135674616</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="EkspresiLambdas.kt">
+      <option name="closed" value="true" />
+      <created>1726136312700</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1726136312700</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="KalkulatorPercabangan.kt" />
     <MESSAGE value="When.kt" />
     <MESSAGE value="KalkulatorPercabanganWhen.kt" />
     <MESSAGE value="For-Loop.kt" />
@@ -448,6 +456,7 @@
     <MESSAGE value="PairNilaiKembali.kt" />
     <MESSAGE value="SingleExpressionFunctions.kt" />
     <MESSAGE value="ArgumenDefaultFungsi.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArgumenDefaultFungsi.kt" />
+    <MESSAGE value="EkspresiLambdas.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="EkspresiLambdas.kt" />
   </component>
 </project>
